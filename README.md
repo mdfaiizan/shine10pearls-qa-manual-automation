@@ -1,0 +1,1 @@
+# shine10pearls-qa-manual-automation
